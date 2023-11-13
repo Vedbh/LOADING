@@ -39,11 +39,11 @@
 <script>
     // Function to redirect to the second page after 10 seconds
     function redirectToSecondPage() {
-            window.location.href = "second_page.html";
+            window.location.href = "https://vedbh.github.io/WELCOME-THIS-PAGE/";
         }
 
         // Add event listeners to each button (like in your original code)
 
-        // Call redirectToSecondPage after a 20-second delay
-        setTimeout(redirectToSecondPage, 20000); // 20000 milliseconds = 20 seconds
+        // Call redirectToSecondPage after a 10-second delay
+        setTimeout(redirectToSecondPage, 10000); // 10000 milliseconds = 10 seconds
 </script>
