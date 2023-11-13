@@ -30,7 +30,7 @@
             100% { transform: rotate(360deg); }
         }
         p{
-            color: #222;
+            color: white;
         }
 </style>
 
