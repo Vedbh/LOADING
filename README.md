@@ -1,13 +1,13 @@
 <style>
     
     body {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-            background-color: pink;
-        }
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+        background: url('your-image-url.jpg') center/cover no-repeat; /* Replace 'your-image-url.jpg' with the actual path to your image */
+    }
 
  .animation-container {
             text-align: ;
@@ -34,13 +34,11 @@
         }
 </style>
 
-    <div class="container" style="background-image: url('pngtree-cyber-security-data-dark-blue-light-effect-abstract-background-image_771333.jpg')>
-<p>Your Login successfully....please Wait a few Second </p><ul></ul>
+   <p>Your Login successfully....please Wait a few Second </p><ul></ul>
 <p id="adviceText"></p>
     <div class="animation-container">
-        <div class="loader"></div>
-      
-   
+        <div class="loader"></div>      
+    </div>
 <script>
     // Function to redirect to the second page after 10 seconds
     function redirectToSecondPage() {
