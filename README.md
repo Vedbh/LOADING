@@ -1,7 +1,7 @@
 
 
 <style>
-    /* Assuming the repository name is in an element with the class "repository-name" */
+    /* Assuming the repository name is in an element with the class "LOADING" */
 .repository-name {
     outline: none; /* This removes the blue outline */
     /* Add other styling as needed */
