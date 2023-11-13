@@ -6,7 +6,7 @@
         justify-content: center;
         height: 100vh;
         margin: 0;
-        background: url('your-image-url.jpg') center/cover no-repeat; /* Replace 'your-image-url.jpg' with the actual path to your image */
+        background: url('loading.jpg') center/cover no-repeat; /* 'loading.jpg' with the actual path to your image */
     }
 
  .animation-container {
