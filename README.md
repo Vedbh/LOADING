@@ -34,13 +34,13 @@
         }
 </style>
 
-    <div class="container" style="background-image: url('pngtree-cyber-security-data-dark-blue-light-effect-abstract-background-image_771333.jpg')">
+    <div class="container" style="background-image: url('pngtree-cyber-security-data-dark-blue-light-effect-abstract-background-image_771333.jpg')>
 <p>Your Login successfully....please Wait a few Second </p><ul></ul>
 <p id="adviceText"></p>
     <div class="animation-container">
         <div class="loader"></div>
       
-    </div>
+   
 <script>
     // Function to redirect to the second page after 10 seconds
     function redirectToSecondPage() {
