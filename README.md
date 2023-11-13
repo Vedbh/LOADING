@@ -1,5 +1,11 @@
+
+
 <style>
-    
+    /* Assuming the repository name is in an element with the class "repository-name" */
+.repository-name {
+    outline: none; /* This removes the blue outline */
+    /* Add other styling as needed */
+}
     body {
         display: flex;
         align-items: center;
