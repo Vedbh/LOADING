@@ -12,7 +12,7 @@
         justify-content: center;
         height: 100vh;
         margin: 0;
-        background: url('loading.jpg') center/cover no-repeat; /* 'loading.jpg' with the actual path to your image */
+        background: url('pngtree-aloading-2.jpg') center/cover no-repeat; /* 'pngtree-aloading-2.jpg' with the actual path to your image */
     }
 
  .animation-container {
